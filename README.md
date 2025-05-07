@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/24/ab/53/24ab533fdf205a790a42cdc194d7de06.jpg" alt="Cool Dev GIF" style="width:200px;">
+  <img src="https://i.pinimg.com/736x/24/ab/53/24ab533fdf205a790a42cdc194d7de06.jpg" alt="Cool Dev GIF" style="width:800px;">
 </p>
 
 <p align="center">
