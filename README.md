@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle; margin-right:10px;">
-  Hi there, I'm <span style="color:#6C63FF;">Allan</span>
+  Hi there, I'm <span style="color:#6C63FF;">Fernando</span>
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Cool Dev GIF" style="width:200px;">
+  <img src="https://i.pinimg.com/736x/24/ab/53/24ab533fdf205a790a42cdc194d7de06.jpg" alt="Cool Dev GIF" style="width:200px;">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html, java, php, sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html, java, git, arduino" />
   <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino" alt="Arduino" style="margin-left:10px;" />
 </p>
 
